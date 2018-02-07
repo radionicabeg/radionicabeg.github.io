@@ -4,3 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+Radionica Beg je specijalizovana za usluge ostrenja, izrade kljuceva, graviranje i izradu pecata.
