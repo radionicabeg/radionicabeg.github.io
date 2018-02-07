@@ -5,4 +5,6 @@
 layout: home
 ---
 
+![logo](logo.png)
+
 Radionica Beg je specijalizovana za usluge ostrenja, izrade kljuceva, graviranje i izradu pecata.
