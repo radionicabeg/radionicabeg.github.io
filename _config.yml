@@ -22,7 +22,7 @@ url: "http://radionicabeg.com" # the base hostname & protocol for your site, e.g
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: minima
 plugins:
   - jekyll-feed
 
