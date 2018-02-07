@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Usluzne delatnosti u oblasti ostrenja, izrade kljuceva, graviranja i izrade pecata.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://radionicabeg.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: radionicabeg
 
 # Build settings
 markdown: kramdown
